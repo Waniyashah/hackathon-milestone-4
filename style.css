@@ -44,7 +44,6 @@
     color: #a31a3d;
  }
  [contenteditable="true"] {
-    border: 1px solid #aaa;
     padding: 10px;
     margin: 10px 0;
  }
